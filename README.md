@@ -1,4 +1,4 @@
-# Form Submit using Ajax in Laravel
+# Form Submit using Ajax in Laravel with form validation
 This is a small Laravel 11 application to show how you can submit a form using Ajax. It uses a custom table named "items" in MySQL. Laravel form validation is used to display validation error messages and once the form is submitted successfully, it displays a successful message. Also, index view displays all the inserted data in an html table. Website - https://codehow2.com
 
 # How To Use
